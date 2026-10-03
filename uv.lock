@@ -1087,6 +1087,7 @@ name = "sentiment-nn"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "joblib" },
     { name = "pandas" },
     { name = "scikit-learn" },
     { name = "sentence-transformers" },
@@ -1094,6 +1095,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "joblib", specifier = ">=1.6.0" },
     { name = "pandas", specifier = ">=3.0.6" },
     { name = "scikit-learn", specifier = ">=1.9.1" },
     { name = "sentence-transformers", specifier = ">=6.1.0" },

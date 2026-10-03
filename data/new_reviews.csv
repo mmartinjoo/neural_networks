@@ -1,0 +1,101 @@
+review_id,product,category,date,rating,review_text
+3001,InboxRocket,Email Marketing,2025-05-26,5,We've used InboxRocket for about a year. Support went above and beyond to fix our issue. Overall a great experience.
+3002,SupportLoop,Help Desk,2024-07-15,5,We've used SupportLoop for about a year. We mainly use it for the shared inbox. Search results come back in a blink. Very frustrating experience.
+3003,SupportLoop,Help Desk,2025-05-03,1,Our team switched to SupportLoop last spring. Rate limits on the API are far too strict. We waited two weeks for a reply to a critical ticket.
+3004,ClientOrbit,CRM,2024-01-03,1,We evaluated it against two competitors. There's no native integration with our accounting tool. Very frustrating experience.
+3005,BookBridge,Accounting,2024-12-16,1,We've used BookBridge for about a year. I use it every day. They raised the price by 40% with almost no notice. Highly recommend.
+3006,InsightForge,Analytics,2024-04-29,1,Our team switched to InsightForge last spring. We migrated from a legacy system. Not worth the money.
+3007,Pipely,CRM,2024-06-30,1,Our IT team handled the rollout. The learning curve is steep. We had several outages during business hours.
+3008,SendGarden,Email Marketing,2024-05-03,5,We've used SendGarden for about a year. The A/B testing is the best we've seen.
+3009,BookBridge,Accounting,2025-03-30,1,Been on BookBridge for 18 months. We mainly use it for the expense tracking. It takes far too many clicks to do simple things. Look elsewhere.
+3010,SendGarden,Email Marketing,2025-03-28,5,Been on SendGarden for 18 months. Support went above and beyond to fix our issue. It's very easy to use day to day. Would recommend to any growing team.
+3011,TicketTide,Help Desk,2024-12-01,5,Our team switched to TicketTide last spring. Our IT team handled the rollout. The knowledge base is the best we've seen.
+3012,ClientOrbit,CRM,2024-06-30,5,We are a team of 212 people. The automation options are powerful. Love it.
+3013,MailMosaic,Email Marketing,2025-05-06,5,Our team switched to MailMosaic last spring. Importing our old data was easy. Data syncs reliably. Support went above and beyond to fix our issue. Would recommend to any growing team.
+3014,InsightForge,Analytics,2024-12-06,5,"Been on InsightForge for 18 months. It's fast, even with thousands of records."
+3015,BookBridge,Accounting,2024-02-01,5,Our team switched to BookBridge last spring. We migrated from a legacy system. The invoicing alone is worth it. Support went above and beyond to fix our issue.
+3016,InsightForge,Analytics,2024-09-20,2,"We've used InsightForge for about a year. Customer support answers within minutes. Great features, terrible price. Overall a great experience."
+3017,ClientOrbit,CRM,2024-09-04,4,Navigation is simple and logical. Too basic for a growing team. Overall a disappointment.
+3018,HelpHive,Help Desk,2024-11-26,5,Been on HelpHive for 18 months. Reports are flexible and easy to customize. It integrates smoothly with Slack and Google Workspace. Would recommend to any growing team.
+3019,TicketTide,Help Desk,2024-11-18,4,Our team switched to TicketTide last spring. We mainly use it for the knowledge base. Pricing is fair for what you get. The live chat widget takes ages to load. Everything is where you expect it to be.
+3020,DealNest,CRM,2024-12-02,5,We've used DealNest for about a year. The Salesforce integration works out of the box. Not a single outage in two years.
+3021,Pipely,CRM,2025-03-25,5,"We've used Pipely for about a year. It's fast, even with thousands of records."
+3022,BookBridge,Accounting,2024-01-16,1,Our team switched to BookBridge last spring. We evaluated it against two competitors. The expense tracking is not intuitive at all. We had several outages during business hours. Overall a disappointment.
+3023,InboxRocket,Email Marketing,2024-10-28,1,Our team switched to InboxRocket last spring. We mainly use it for the segmentation. The automation workflows is missing basic options. Overall a disappointment.
+3024,Pipely,CRM,2025-07-29,5,Our team switched to Pipely last spring. We evaluated it against two competitors. Setup was quick and painless.
+3025,HelpHive,Help Desk,2024-03-18,1,Been on HelpHive for 18 months. We migrated from a legacy system. There is no phone support at all.
+3026,ChartCove,Analytics,2025-01-21,5,Our team switched to ChartCove last spring. The free plan is generous. The interface is clean and easy to learn. The onboarding guides were clear. Overall a great experience.
+3027,BookBridge,Accounting,2024-10-30,2,Reports are flexible and easy to customize. They raised the price by 40% with almost no notice. The mobile app crashes constantly. Would not recommend.
+3028,MetricMint,Analytics,2024-02-08,2,Our team switched to MetricMint last spring. The interface is clean and easy to learn. The funnel analysis is missing basic options.
+3029,InsightForge,Analytics,2024-10-28,4,We evaluated it against two competitors. The interface is clean and easy to learn. We've had basically no downtime. It crashes a lot and support never helps.
+3030,CountWise,Accounting,2025-07-26,5,"Been on CountWise for 18 months. The bank reconciliation alone is worth it. Whenever we got stuck, support had an answer the same day. Would recommend to any growing team."
+3031,TicketTide,Help Desk,2025-08-10,1,Been on TicketTide for 18 months. Importing our old data was a nightmare. We had several outages during business hours. Overall a disappointment.
+3032,DealNest,CRM,2025-02-25,2,We've used DealNest for about a year. We mainly use it for the email sync. The onboarding call was really useful. Syncing fails silently. The per-seat price is very reasonable.
+3033,TicketTide,Help Desk,2025-05-08,5,We've used TicketTide for about a year. The free plan is generous. Overall a great experience.
+3034,SupportLoop,Help Desk,2024-02-06,5,Been on SupportLoop for 18 months. We saved money by replacing two tools with it.
+3035,TaskHarbor,Project Management,2025-09-07,3,"Our team switched to TaskHarbor last spring. The app freezes several times a day. Cheap, and the support team is lovely. The interface is cluttered and confusing. Overall a disappointment."
+3036,ClientOrbit,CRM,2025-05-13,3,We've used ClientOrbit for about a year. We had several outages during business hours. Setup was fast and the interface is intuitive. There's no native integration with our accounting tool. Reports time out when the data gets large.
+3037,DealNest,CRM,2025-07-25,5,We've used DealNest for about a year. We migrated from a legacy system. Importing our old data was easy. Would recommend to any growing team.
+3038,Sprintly Pro,Project Management,2024-07-06,5,We've used Sprintly Pro for about a year. We are a team of 98 people. The kanban boards alone is worth it.
+3039,Pipely,CRM,2024-03-20,5,We've used Pipely for about a year. Our IT team handled the rollout. The pipeline view is intuitive. The Salesforce integration works out of the box. Love it.
+3040,TaskHarbor,Project Management,2025-08-30,4,"Customer support rarely fixes anything. Great features, terrible price. Never lost any data."
+3041,Pipely,CRM,2025-03-11,1,Been on Pipely for 18 months. The contact management is not intuitive at all. Onboarding was confusing and badly organized. Very frustrating experience.
+3042,ChartCove,Analytics,2025-02-09,4,Our team switched to ChartCove last spring. We are a team of 101 people. The funnel analysis alone is worth it. The Slack integration breaks every few weeks.
+3043,Pipely,CRM,2025-02-25,3,We've used Pipely for about a year. Hidden fees showed up on our second invoice. The Salesforce integration works out of the box.
+3044,HelpHive,Help Desk,2024-07-26,1,Our team switched to HelpHive last spring. We migrated from a legacy system. There is no way to customize the shared inbox. Navigation is a maze.
+3045,HelpHive,Help Desk,2025-03-08,5,Our team switched to HelpHive last spring. The shared inbox alone is worth it. Highly recommend.
+3046,HelpHive,Help Desk,2024-09-06,4,"We are a team of 138 people. Easy to use, but it gets slow with big projects. Pricing is fair for what you get."
+3047,CountWise,Accounting,2024-06-29,3,"Been on CountWise for 18 months. Fast, stable and never down. Hidden fees showed up on our second invoice. Pages load instantly."
+3048,CountWise,Accounting,2025-01-30,2,Been on CountWise for 18 months. There's no native integration with our accounting tool. The tax reports is buggy and loses data occasionally. Live chat support is fast and friendly. Very frustrating experience.
+3049,MailMosaic,Email Marketing,2024-11-30,5,It integrates smoothly with Slack and Google Workspace. Never lost any data.
+3050,ClientOrbit,CRM,2025-03-11,2,We evaluated it against two competitors. The contact management is snappy. The API is poorly documented. The deal tracking is not intuitive at all.
+3051,DealNest,CRM,2024-03-18,1,Reporting is very limited.
+3052,LedgerLeaf,Accounting,2025-07-10,4,Been on LedgerLeaf for 18 months. We migrated from a legacy system. It's cheaper than the alternatives we looked at. The Salesforce integration works out of the box. Half of our team still can't find basic settings.
+3053,ChartCove,Analytics,2024-07-11,3,Been on ChartCove for 18 months. We've had basically no downtime. It costs twice as much as the competitors. Everything is where you expect it to be. Love it.
+3054,Pipely,CRM,2024-10-29,3,We've used Pipely for about a year. I use it every day. The roadmap has been stuck for a year. Setup was quick and painless. Very frustrating experience.
+3055,HelpHive,Help Desk,2025-07-25,4,We've used HelpHive for about a year. Everything is where you expect it to be. The per-seat pricing gets painful as you grow.
+3056,TaskHarbor,Project Management,2025-05-27,1,We've used TaskHarbor for about a year. Not worth the money. Reports time out when the data gets large. Expensive and support is useless. Very frustrating experience.
+3057,TaskHarbor,Project Management,2025-03-26,5,"Our team switched to TaskHarbor last spring. We are a team of 57 people. The per-seat price is very reasonable. Fast, stable and never down. The time tracking is snappy."
+3058,SupportLoop,Help Desk,2024-11-04,4,We've used SupportLoop for about a year. The API is great but the pricing tiers are confusing and steep. The setup documentation is outdated. Overall a disappointment.
+3059,LedgerLeaf,Accounting,2024-12-03,1,Been on LedgerLeaf for 18 months. We are a team of 229 people. Rate limits on the API are far too strict.
+3060,InsightForge,Analytics,2024-11-13,2,Our team switched to InsightForge last spring. Pages load instantly. The free plan is generous. There's no native integration with our accounting tool.
+3061,InsightForge,Analytics,2024-02-12,1,We've used InsightForge for about a year. The mobile app crashes constantly. There is no phone support at all. The interface is cluttered and confusing. Would not recommend.
+3062,PlanBoard,Project Management,2025-06-23,5,Our team switched to PlanBoard last spring. We migrated from a legacy system. Reports are flexible and easy to customize. Would recommend to any growing team.
+3063,MailMosaic,Email Marketing,2024-07-20,5,Our team switched to MailMosaic last spring. Never lost any data. Customer support answers within minutes.
+3064,InboxRocket,Email Marketing,2024-02-07,3,We've used InboxRocket for about a year. Our IT team handled the rollout. The API is great but the pricing tiers are confusing and steep. Zapier support covers everything else we need. The A/B testing is missing basic options. Highly recommend.
+3065,Pipely,CRM,2024-10-18,3,Our team switched to Pipely last spring. Navigation is simple and logical. Pages load instantly. Support takes days to reply.
+3066,PlanBoard,Project Management,2025-08-18,5,"Been on PlanBoard for 18 months. We are a team of 134 people. It's fast, even with thousands of records. The time tracking alone is worth it. The Salesforce integration works out of the box. Love it."
+3067,HelpHive,Help Desk,2025-07-02,2,Our team switched to HelpHive last spring. Expensive and support is useless. The per-seat price is very reasonable.
+3068,MailMosaic,Email Marketing,2024-05-10,1,Reports time out when the data gets large. We had several outages during business hours. Reporting is very limited. Very frustrating experience.
+3069,ChartCove,Analytics,2024-05-25,5,Our team switched to ChartCove last spring. Great value for money.
+3070,SupportLoop,Help Desk,2024-04-26,5,Our team switched to SupportLoop last spring. Not a single outage in two years.
+3071,InboxRocket,Email Marketing,2025-01-17,1,We've used InboxRocket for about a year. The app freezes several times a day. The automation workflows is buggy and loses data occasionally. It crashes a lot and support never helps.
+3072,InsightForge,Analytics,2025-02-20,2,"We are a team of 220 people. Expensive and support is useless. Not cheap, but worth every cent. The interface is clean and easy to learn. Highly recommend."
+3073,MetricMint,Analytics,2024-12-26,2,Our team switched to MetricMint last spring. We are a team of 188 people. The support team actually solves problems. It costs twice as much as the competitors. The dashboards is snappy.
+3074,SendGarden,Email Marketing,2024-07-05,2,I use it every day. Setup was quick and painless. The automation options are powerful. The A/B testing is not intuitive at all.
+3075,TicketTide,Help Desk,2024-02-08,1,Our team switched to TicketTide last spring. Our IT team handled the rollout. There's no native integration with our accounting tool. Would not recommend.
+3076,ClientOrbit,CRM,2024-05-31,2,"Been on ClientOrbit for 18 months. There is no way to customize the deal tracking. Easy to use, but it gets slow with big projects."
+3077,MailMosaic,Email Marketing,2024-11-05,4,Most of our team works remotely. Not a single outage in two years. Search is so slow we stopped using it. We saved money by replacing two tools with it. Would recommend to any growing team.
+3078,TaskHarbor,Project Management,2025-01-25,5,Our team switched to TaskHarbor last spring. Everything is where you expect it to be. Highly recommend.
+3079,CountWise,Accounting,2025-03-09,1,Our team switched to CountWise last spring. Our IT team handled the rollout. We needed a paid consultant just to get started.
+3080,LedgerLeaf,Accounting,2024-04-05,1,Been on LedgerLeaf for 18 months. Search is so slow we stopped using it. Would not recommend.
+3081,MailMosaic,Email Marketing,2025-02-27,3,Support takes days to reply. The segmentation alone is worth it.
+3082,SendGarden,Email Marketing,2024-08-29,1,Our team switched to SendGarden last spring. We migrated from a legacy system. Support kept sending us canned answers.
+3083,BookBridge,Accounting,2024-03-10,5,Been on BookBridge for 18 months. Live chat support is fast and friendly. Everything is where you expect it to be. New features ship regularly.
+3084,DealNest,CRM,2024-01-18,1,Our IT team handled the rollout. Customer support rarely fixes anything. Would not recommend.
+3085,SendGarden,Email Marketing,2024-05-22,4,We've used SendGarden for about a year. The automation workflows alone is worth it. It integrates smoothly with Slack and Google Workspace. Great value for money. Expensive and support is useless.
+3086,InboxRocket,Email Marketing,2024-10-02,3,Been on InboxRocket for 18 months. We evaluated it against two competitors. The free plan is generous. The roadmap has been stuck for a year.
+3087,LedgerLeaf,Accounting,2025-04-09,3,We've used LedgerLeaf for about a year. We are a team of 79 people. We waited two weeks for a reply to a critical ticket. The expense tracking takes ages to load. It has every feature we need. Would recommend to any growing team.
+3088,SupportLoop,Help Desk,2025-05-04,5,"We've used SupportLoop for about a year. We migrated from a legacy system. Fast, stable and never down. The knowledge base alone is worth it. Would recommend to any growing team."
+3089,SendGarden,Email Marketing,2024-09-13,4,"Been on SendGarden for 18 months. Great features, terrible price. We migrated from a legacy system. It has every feature we need. Overall a great experience."
+3090,ChartCove,Analytics,2024-04-19,1,Our team switched to ChartCove last spring. The setup documentation is outdated. The data connectors is not intuitive at all. The API is poorly documented.
+3091,MetricMint,Analytics,2024-07-13,5,We migrated from a legacy system. Zapier support covers everything else we need. Not a single outage in two years. Live chat support is fast and friendly.
+3092,Pipely,CRM,2024-03-14,3,"Our team switched to Pipely last spring. Whenever we got stuck, support had an answer the same day. Zapier support covers everything else we need. Navigation is a maze."
+3093,ClientOrbit,CRM,2024-11-26,5,Our team switched to ClientOrbit last spring. It has every feature we need. Overall a great experience.
+3094,HelpHive,Help Desk,2024-07-13,4,Our team switched to HelpHive last spring. Support kept sending us canned answers. Navigation is simple and logical. Highly recommend.
+3095,TicketTide,Help Desk,2024-02-21,1,Been on TicketTide for 18 months. Our IT team handled the rollout. Rate limits on the API are far too strict. Too basic for a growing team. Look elsewhere.
+3096,DealNest,CRM,2024-04-14,5,Our team switched to DealNest last spring. Importing our old data was easy. The free plan is generous.
+3097,MailMosaic,Email Marketing,2024-03-05,1,Been on MailMosaic for 18 months. Key features from the demo still aren't available. The mobile app crashes constantly. Would not recommend.
+3098,ChartCove,Analytics,2025-04-30,3,"Been on ChartCove for 18 months. The interface is cluttered and confusing. The setup documentation is outdated. The dashboards is missing basic options. Great features, terrible price. Very frustrating experience."
+3099,TicketTide,Help Desk,2025-10-02,4,"Every update seems to break something. Way too expensive for what you get. Fast, stable and never down."
+3100,PlanBoard,Project Management,2024-11-19,4,Been on PlanBoard for 18 months. Our IT team handled the rollout. Great value for money. The Slack integration breaks every few weeks. Every update seems to break something.
