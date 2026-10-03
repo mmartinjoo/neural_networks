@@ -8,9 +8,8 @@ from sklearn.dummy import DummyClassifier
 from sentence_transformers import SentenceTransformer
 from sentiment_nn.services import reports
 
-embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L12-v2")
-
 def run():
+    embedder = SentenceTransformer("sentence-transformers/all-MiniLM-L12-v2")
     df = pd.read_csv("/Users/cheppers-one/code/sentiment-nn/data/tech_product_reviews_labeled.csv")
     
     df["text"] = df["title"] + ". " + df["review_text"]

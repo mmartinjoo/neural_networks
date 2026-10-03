@@ -15,3 +15,4 @@ build-backend = "uv_build"
 [project.scripts]
 simple_classifier = "sentiment_nn.main:run_simple_classifier"
 sentence_transformer = "sentiment_nn.main:run_sentence_transformer"
+aspect_sentiment = "sentiment_nn.main:run_aspect_sentiment"
