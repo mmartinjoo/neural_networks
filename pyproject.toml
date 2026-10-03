@@ -1,0 +1,17 @@
+[project]
+name = "sentiment-nn"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+    "sentence-transformers>=6.1.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"
+
+[project.scripts]
+simple_classifier = "sentiment_nn.main:run_simple_classifier"
+sentence_transformer = "sentiment_nn.main:run_sentence_transformer"
