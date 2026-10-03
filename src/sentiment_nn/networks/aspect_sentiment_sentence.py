@@ -3,8 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MultiLabelBinarizer
-from sklearn.model_selection import train_test_split, GroupShuffleSplit
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import GroupShuffleSplit
 from sklearn.dummy import DummyClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.multiclass import OneVsRestClassifier
